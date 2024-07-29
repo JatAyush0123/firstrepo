@@ -1,5 +1,11 @@
 file1 is here
 author ayush
 hey
+
 file is modified in master
+
+=======
+file1 is modified
+
+
 
